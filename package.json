@@ -1,9 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Goodness Udoaka",
+	"description": "A project on json files",
+	"keywords": ["freecodecamp", "backend", "json"],
+	"license": "BSD",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
-	},
+    	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
